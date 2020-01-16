@@ -1,0 +1,1 @@
+Laboratorio donde se implementa javascript y JQuery para darle funcionalidad a una pagina.
